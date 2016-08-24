@@ -68,7 +68,7 @@
 .airCondButton {
   position: fixed;
   background-color: #0990e8;
-    border-radius: 10px;
+  border-radius: 10px;
   width: 60px;
   height: 40px;
   border: 0px;
@@ -79,6 +79,26 @@
   top: 10px;
   left: 220px;
 }
+
+.airCondSelected {
+
+  position: fixed;
+  background-color: #0990e8;
+  border-color: #ffffff;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+  border: 0px;
+  text-align: center;
+  font-size: 28px;
+  line-height: 40px;
+  color: #000000;
+  top: 10px;
+  left: 220px;
+
+}
+
+
 
 .airIndicator {
   position: fixed;
